@@ -1,0 +1,513 @@
+[
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/conduit.5a7e2cb53b889bafc0d185bfa9aa8c4d35203925eafa44cfb119a36f5d238b9e.jpg",
+    "companyName": "Conduit",
+    "jobTitle": "SWE, Rollup Engineer",
+    "location": "Worldwide",
+    "datePosted": "27 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "Arbitrum",
+      "Blockchain",
+      "Engineer",
+      "Ethereum"
+    ],
+    "jobDescription": "Conduit – The Onchain Compute Company\n\nAt Conduit, we’re building the rollup-native cloud platform that will scale Ethereum.\n\nCrypto builders have been held back by a lack of onchain compute — without the ability to process a high volume of transactions quickly and cheaply, onchain apps and ecosystems can’t build high quality user experiences.\n\nRollups have emerged as the answer to this problem. Just as servers work together to scale compute in web2, so too can rollups scale onchain compute in web3. But building and operating your own rollup is difficult and time-consuming. That’s where Conduit comes in.\n\nAs the rollup-native cloud platform, Conduit combines web2 engineering best-practices with web3 rollup technology to make it easy for anyone to launch and maintain their own chain. By making infrastructure simple and onchain compute abundant, similar to how AWS and GCP did for web2, we can unlock the next wave of innovation in the crypto ecosystem.\n\nThe Conduit platform has seen massive growth since going live in 2023. We run the largest chains in production, including Proof of Play, Zora, Aevo, and more. This translates to 200+ chains across mainnet and testnet and over $1B in total-value-locked (TVL). We’re operating on the bleeding edge of crypto, co-evolving with our customers and integration partners, and pushing the limits of blockchain scalability and modularity.\n\nThis success has been recognized and accelerated through a $37M Series A, co-led by Paradigm and Haun Ventures — two of the best investors in the industry.\n\nWe’re an elite team that’s previously worked at Meta, Brex, Wish, Compound, Chainalysis, Immunefi, Amazon, Avara/Aave, Paradigm, and more. We’re headquartered in San Francisco, with team members all over the world.\n\nWe’re looking for ambitious, talented builders that want to help scale Ethereum and bring crypto compute to the masses. Join us!\n\nAbout the Role\n\nIn this role you’ll be working closely with the CEO to develop, maintain, and the rollup stack offerings and customizations made possible by our leading Rollup-as-a-Service platform. You’ll develop custom precompiles and whitelisted contract deployers that create entirely new or more efficient functionality, as well as help us expand our support for emerging L2s. We value people who can quickly obtain a deep technical understanding, are able to quickly create proof-of-concepts to validate entirely new approaches, and enjoy being self-directed and identifying the most important problems to solve.\n\nAs a Software Engineer, Rollup Product you should:\nA strong background in distributed systems, cryptography, and network protocols.\nHave some experience hacking on the various rollups, understand the underlying components, and have opinions about the various trade-offs of those components and platforms.\nHave some experience with hacking on EVM node software.\nHave a deep understanding of the EVM and how external tooling integrates with it.\nFamiliarity with multiple programming languages, including but not limited to Golang, Rust, and Solidity.\nContribute to defining Conduit’s product strategy and roadmap with the rest of the team.\nWe think you’ll find this work really exciting if you:\nLove rollups and their potential to exponentially scale Ethereum, and are excited about building best-in-class tooling and infrastructure for it and around it.\nYou’re excited to architect, build, and deploy the systems, services, and integrations that help our rollups connect with other ecosystem partners.\nHave experience tinkering with optimistic and ZK rollups and deploying applications to the various chains.\nCan debug problems across the stack, such as networking issues, performance problems, or memory leaks\nOwn problems end-to-end, and are willing to pick up whatever knowledge you’re missing to get the job done\nOur tech stack\n\nOur infrastructure is built on Kubernetes, Postgres, and Cloud Tasks on GCP, and the products on top utilize a mix of React, Javascript/Typescript, Go, Rust, and Postgres. While we value experience with these technologies, we are primarily looking for engineers with strong technical skills and the ability to quickly pick up new tools and frameworks.\n\nConduit does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status or any other basis covered by appropriate law.",
+    "applyLink": "https://devremote.io/jobs/remote-SWE,-Rollup-Engineer-1730077223",
+    "visitWebsiteLink": "https://www.coinbase.com/en-ca/learn/wallet/what-are-rollups-in-crypto/"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/conduit.5a7e2cb53b889bafc0d185bfa9aa8c4d35203925eafa44cfb119a36f5d238b9e.jpg",
+    "companyName": "Conduit",
+    "jobTitle": "SWE, Blockchain Engineer",
+    "location": "Worldwide",
+    "datePosted": "27 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "Arbitrum",
+      "Blockchain Engineer",
+      "Engineer",
+      "Ethereum"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-SWE,-Blockchain-Engineer-1730077222",
+    "visitWebsiteLink": "https://www.coinbase.com/en-ca/learn/wallet/what-are-rollups-in-crypto/"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/conduit.5a7e2cb53b889bafc0d185bfa9aa8c4d35203925eafa44cfb119a36f5d238b9e.jpg",
+    "companyName": "Conduit",
+    "jobTitle": "SWE, Backend",
+    "location": "Worldwide",
+    "datePosted": "27 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "Arbitrum",
+      "Backend Engineer",
+      "Blockchain",
+      "Engineer"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-SWE,-Backend-1730077221",
+    "visitWebsiteLink": "https://www.coinbase.com/en-ca/learn/wallet/what-are-rollups-in-crypto/"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/chorus-one.d535b1778e5fa1827a367599c75c2e2ac91215298c3ff44898a603128d1c7134.jpg",
+    "companyName": "Chorus One",
+    "jobTitle": "Platform Engineer",
+    "location": "Worldwide",
+    "datePosted": "27 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "$80k - $150k",
+      "Ansible",
+      "Bash",
+      "Cloud",
+      "Engineer"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-Platform-Engineer-1730077224",
+    "visitWebsiteLink": "https://careers.chorus.one/o/platforms-engineer-remote?ref=cryptocurrencyjobs.co"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/gemini.2945775b838ff1cf8b2924c561efa292e942fd631c4f3f1f8656017956c85ab9.jpg",
+    "companyName": "Gemini",
+    "jobTitle": "Staff Software Engineer, Onchain (Web)",
+    "location": "Worldwide",
+    "datePosted": "27 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "$172k - $215k",
+      "Engineer",
+      "Software Engineer",
+      "Web3"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-Staff-Software-Engineer,-Onchain-(Web)-1730077224",
+    "visitWebsiteLink": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=6250043?gh_src=cryptocurrencyjobs.co"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/coinbase.a8baf20ce6b1b3a686fa063d9c5983644a5744d692c6cf6cd09c9ca2a2a3f95f.png",
+    "companyName": "Coinbase",
+    "jobTitle": "Software Engineer, Emerging Talent (India)",
+    "location": "Worldwide",
+    "datePosted": "26 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "Engineer",
+      "Entry-Level",
+      "Software Engineer"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-Software-Engineer,-Emerging-Talent-(India)-1729990823",
+    "visitWebsiteLink": "https://www.coinbase.com/en-gb/careers/positions/6230378?gh_src=cryptocurrencyjobs.co"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/golem-foundation-octant.2392978a1b1934fbafa0c7616df9a4f7e9a1c7b7fb4b6c4c19dfc1ceb20fd793.png",
+    "companyName": "Golem Foundation / Octant",
+    "jobTitle": "Senior Smart Contract Engineer",
+    "location": "Worldwide",
+    "datePosted": "26 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "$120k - $250k",
+      "Crypto Pay",
+      "Engineer",
+      "Ethereum",
+      "Public Goods Funding"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-Senior-Smart-Contract-Engineer-1729990823",
+    "visitWebsiteLink": "mailto:ben@golem.foundation?subject=Senior%20Smart%20Contract%20Engineer%20at%20Golem%20Foundation%20/%20Octant%20on%20Cryptocurrency%20Jobs"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/blockchain.3d37f22967e258f436d7b960d65376e898d34e2495b34d807445dbdb449817af.png",
+    "companyName": "Blockchain",
+    "jobTitle": "Front-End Engineer, Institutional",
+    "location": "Worldwide",
+    "datePosted": "25 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "Engineer",
+      "Frontend Engineer",
+      "JavaScript",
+      "Next.js"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-Front-End-Engineer,-Institutional-1729904422",
+    "visitWebsiteLink": "https://boards.greenhouse.io/blockchain/jobs/6321659?gh_src=cryptocurrencyjobs.co"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/chorus-one.d535b1778e5fa1827a367599c75c2e2ac91215298c3ff44898a603128d1c7134.jpg",
+    "companyName": "Chorus One",
+    "jobTitle": "Software Engineer (Product)",
+    "location": "Worldwide",
+    "datePosted": "25 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "$100k - $140k",
+      "Engineer",
+      "Golang",
+      "Kotlin",
+      "PostgreSQL"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-Software-Engineer-(Product)-1729904422",
+    "visitWebsiteLink": "https://careers.chorus.one/o/software-engineer-product?ref=cryptocurrencyjobs.co"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/kadena.4204558f0670ab713e8d87975824cd699b2ee72192326de923f0f683cf6dd83f.jpeg",
+    "companyName": "Kadena",
+    "jobTitle": "Developer Advocate",
+    "location": "Worldwide",
+    "datePosted": "24 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "$120k - $140k",
+      "Community",
+      "Developer Advocate",
+      "Developer Relations",
+      "Layer 1"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-Developer-Advocate-1729818025",
+    "visitWebsiteLink": "https://job-boards.greenhouse.io/kadenallc/jobs/4480960005?gh_src=9bdc9a635us"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/swissborg.9335c0907e0352e6e15d092663904f9067ebebf16c7302de79330211bb8e2aee.jpg",
+    "companyName": "SwissBorg",
+    "jobTitle": "Software Engineering Intern (Blockchain)",
+    "location": "Worldwide",
+    "datePosted": "23 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "Engineer",
+      "Entry-Level",
+      "Software Engineer"
+    ],
+    "jobDescription": "SwissBorg is looking to hire a Software Engineering Intern (Blockchain) to join their team. This is an internship position that is based in Lausanne.\n\nSwissBorg - Making crypto asset management accessible.",
+    "applyLink": "https://devremote.io/jobs/remote-Software-Engineering-Intern-(Blockchain)-1729731624",
+    "visitWebsiteLink": "https://jobs.lever.co/swissborg/4dc36a68-7523-4aaa-bbc0-92857e9e3da5?lever-origin=applied&lever-source%5B%5D=cryptocurrencyjobs.co"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/starkware.a88a3c4697e6773aede688f23c68980d56540458bb463ccfb979eaaf5df2e05b.jpg",
+    "companyName": "StarkWare",
+    "jobTitle": "Software Engineer",
+    "location": "Worldwide",
+    "datePosted": "23 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "Engineer",
+      "Layer 2",
+      "Software Engineer"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-Software-Engineer-1729731624",
+    "visitWebsiteLink": "https://www.comeet.com/jobs/starkware/C6.00E/software-engineer/72.22B?ref=cryptocurrencyjobs.co"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/ramp-network.447ac8db8bca705cdf7a7448cca34f05fd287638d433b71935ee07cc47dbdb22.jpg",
+    "companyName": "Ramp Network",
+    "jobTitle": "Backend Engineer (Web 3)",
+    "location": "Worldwide",
+    "datePosted": "23 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "Backend Engineer",
+      "Engineer",
+      "NestJS",
+      "Node.js"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-Backend-Engineer-(Web-3)-1729731623",
+    "visitWebsiteLink": "https://www.youtube.com/watch?v=00QLV57SYF0"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/gauntlet.8b45f6fb6f2e409a63010dc36c97261f50ef222ce8212d42b60db612e1b88256.png",
+    "companyName": "Gauntlet",
+    "jobTitle": "Smart Contracts Engineer: Team Aera",
+    "location": "Worldwide",
+    "datePosted": "22 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "DeFi",
+      "Engineer",
+      "EVM",
+      "MEV"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-Smart-Contracts-Engineer:-Team-Aera-1729645225",
+    "visitWebsiteLink": "https://jobs.lever.co/gauntlet/e37e55e6-cc3e-418f-b268-f0c155b90f94?lever-origin=applied&lever-source%5B%5D=cryptocurrencyjobs.co"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/hashgraph.ac59d3494ad9a8685576d6b085fcb20c8cd5eecf6b8b81a47a0eb67b92aeec49.png",
+    "companyName": "Hashgraph",
+    "jobTitle": "Product Security Engineer",
+    "location": "Worldwide",
+    "datePosted": "22 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "Engineer",
+      "Product",
+      "Security"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-Product-Security-Engineer-1729645226",
+    "visitWebsiteLink": "https://www.hashgraph.com/careers/?gh_jid=7293507002?gh_src=cryptocurrencyjobs.co"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/metamask.b922ee8308f3fddfdbe02796143cfef65e4024c0ff7554b12fe4549ffe076718.jpg",
+    "companyName": "MetaMask",
+    "jobTitle": "Staff Release Manager",
+    "location": "Worldwide",
+    "datePosted": "22 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "Delivery Management",
+      "Ethereum",
+      "Web3"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-Staff-Release-Manager-1729645227",
+    "visitWebsiteLink": "https://consensys.io/open-roles/5892445?gh_src=cryptocurrencyjobs.co"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/autonomys-network.468268f5bd3f21f93bad09b128342ae651e3002cee68012a6a0efa940ac60c15.png",
+    "companyName": "Autonomys Network",
+    "jobTitle": "Product Engineer (Fullstack)",
+    "location": "Worldwide",
+    "datePosted": "21 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "AI",
+      "Engineer",
+      "Ethers.js",
+      "Full Stack Engineer"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-Product-Engineer-(Fullstack)-1729558826",
+    "visitWebsiteLink": "https://www.autonomys.net/"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/onchain-foundation.33285d89cab19202a519a5cf8e2a8d83ec371612b7637f70d39f0583f060b0f9.jpg",
+    "companyName": "Onchain Foundation",
+    "jobTitle": "Machine Learning Engineer",
+    "location": "Worldwide",
+    "datePosted": "21 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "Engineer",
+      "Machine Learning",
+      "Python",
+      "PyTorch"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-Machine-Learning-Engineer-1729558827",
+    "visitWebsiteLink": "https://onchain-stiftung.jobs.personio.de/job/1783303?display=en?ref=cryptocurrencyjobs.co"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/uniswap.6c7a4daf5b2b63f42d052c45829d6e651726fd76b90f0924a8d52dbc389b3eac.jpg",
+    "companyName": "Uniswap",
+    "jobTitle": "Staff Application Security Engineer",
+    "location": "Worldwide",
+    "datePosted": "21 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "$264k - $294k",
+      "DeFi",
+      "Engineer",
+      "Ethereum",
+      "Security"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-Staff-Application-Security-Engineer-1729558827",
+    "visitWebsiteLink": "https://job-boards.greenhouse.io/uniswaplabs/jobs/4483520005?gh_src=cryptocurrencyjobs.co"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/chorus-one.d535b1778e5fa1827a367599c75c2e2ac91215298c3ff44898a603128d1c7134.jpg",
+    "companyName": "Chorus One",
+    "jobTitle": "Senior Software Engineer (Infrastructure)",
+    "location": "Worldwide",
+    "datePosted": "20 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "$100k - $140k",
+      "C++",
+      "Engineer",
+      "Golang",
+      "Haskell"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-Senior-Software-Engineer-(Infrastructure)-1729472424",
+    "visitWebsiteLink": "https://handbook.chorus.one/chorus-one/intro.html"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/ledger.dc5e28af0f2e8cd43abe495b1f575860f5814ced891de4e51e42401f160733a4.jpg",
+    "companyName": "Ledger",
+    "jobTitle": "Junior Software Engineer",
+    "location": "Worldwide",
+    "datePosted": "20 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "Engineer",
+      "Junior",
+      "Software Engineer",
+      "Web3"
+    ],
+    "jobDescription": "Ledger is looking to hire a Junior Software Engineer to join their team. This is a full-time position that is based in Paris.\n\nLedger - We provide uncompromised self-custody solutions for the revolution of value.",
+    "applyLink": "https://devremote.io/jobs/remote-Junior-Software-Engineer-1729472425",
+    "visitWebsiteLink": "https://jobs.lever.co/ledger/79833d17-faa2-4091-a7dc-74378add3b32?lever-origin=applied&lever-source%5B%5D=cryptocurrencyjobs.co"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/lightning-labs.c237170527a7f3d9cdc53937e3c7716e4bf31ea70373740099208f4c8db92839.png",
+    "companyName": "Lightning Labs",
+    "jobTitle": "Lightning Developer Evangelist",
+    "location": "Worldwide",
+    "datePosted": "20 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "Bitcoin",
+      "Developer Evangelist",
+      "Lightning"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-Lightning-Developer-Evangelist-1729472426",
+    "visitWebsiteLink": "https://jobs.ashbyhq.com/lightning/2fd09821-5a7a-4644-861c-33a075467483?ref=cryptocurrencyjobs.co"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/chorus-one.d535b1778e5fa1827a367599c75c2e2ac91215298c3ff44898a603128d1c7134.jpg",
+    "companyName": "Chorus One",
+    "jobTitle": "Platform Engineer",
+    "location": "Worldwide",
+    "datePosted": "19 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "$80k - $150k",
+      "Ansible",
+      "Bash",
+      "Cloud",
+      "Engineer"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-Platform-Engineer-1729386022",
+    "visitWebsiteLink": "https://careers.chorus.one/o/platforms-engineer-remote?ref=cryptocurrencyjobs.co"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/arells.7c1dfff66f48a06683e65f0190bcaaa2bbb5ce00de3ed8f2ca16541f77c44325.png",
+    "companyName": "Arells",
+    "jobTitle": "Full-Stack Engineer",
+    "location": "Worldwide",
+    "datePosted": "19 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "$120k - $120k",
+      "Bitcoin",
+      "DeFi",
+      "Engineer",
+      "Ethereum"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-Full-Stack-Engineer-1729299625",
+    "visitWebsiteLink": "https://arells.com"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/chorus-one.d535b1778e5fa1827a367599c75c2e2ac91215298c3ff44898a603128d1c7134.jpg",
+    "companyName": "Chorus One",
+    "jobTitle": "Software Engineer (Product)",
+    "location": "Worldwide",
+    "datePosted": "18 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "$100k - $140k",
+      "Engineer",
+      "Golang",
+      "Kotlin",
+      "PostgreSQL"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-Software-Engineer-(Product)-1729299626",
+    "visitWebsiteLink": "https://careers.chorus.one/o/software-engineer-product?ref=cryptocurrencyjobs.co"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/injective-labs.11ae402ceda6c3df16382a97cf9be811e8ce11c34bc262d1bf969826336b6bc7.jpg",
+    "companyName": "Injective Labs",
+    "jobTitle": "Developer Relations Manager",
+    "location": "Worldwide",
+    "datePosted": "18 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "CosmWasm",
+      "DeFi",
+      "Developer Relations",
+      "Layer 1"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-Developer-Relations-Manager-1729299627",
+    "visitWebsiteLink": "https://jobs.lever.co/injectivelabs/77cdca21-9a9d-47f2-b026-f05de7fd3e2f?lever-origin=applied&lever-source%5B%5D=cryptocurrencyjobs.co"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/parfin.b752d49c59c4dd765df1bacd8cf44f9f0b4382ddaed82c4610ec2db830449fa0.png",
+    "companyName": "Parfin",
+    "jobTitle": "Quality Assurance (QA) Engineer",
+    "location": "Worldwide",
+    "datePosted": "18 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "Engineer",
+      "QA",
+      "Web3"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-Quality-Assurance-(QA)-Engineer-1729299627",
+    "visitWebsiteLink": "https://www.linkedin.com/jobs/view/quality-assurance-qa-engineer-at-parfin-4039507076/?ref=cryptocurrencyjobs.co"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/layer-n.04e37c5d67585ae771b8f9747de68c71c8e43ac15f212599d79c145244306d20.jpg",
+    "companyName": "Layer N",
+    "jobTitle": "Distributed Systems PhD Internship",
+    "location": "Worldwide",
+    "datePosted": "17 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "C++",
+      "Distributed Systems",
+      "Layer 2",
+      "Python"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-Distributed-Systems-PhD-Internship-1729213225",
+    "visitWebsiteLink": "https://jobs.ashbyhq.com/layern/77fe5ed0-1879-488f-8645-ab872c933be4?ref=cryptocurrencyjobs.co"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/logos.1c78ad23160cabdc34d106ea23226d3090bd2b7088194b51ced408ea50e2cd72.png",
+    "companyName": "Logos",
+    "jobTitle": "Senior Blockchain Engineer (Distributed Systems, Rust)",
+    "location": "Worldwide",
+    "datePosted": "15 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "Blockchain Engineer",
+      "Crypto Pay",
+      "Distributed Systems",
+      "Engineer"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-Senior-Blockchain-Engineer-(Distributed-Systems,-Rust)-1729040433",
+    "visitWebsiteLink": "https://grnh.se/201535eb1us"
+  },
+  {
+    "companyLogo": "https://cryptocurrencyjobs.co/startups/assets/logos/bloxroute.8c587766e35460698eb499640526046a8c8e8da3030a2ef69a2dd3eeee3be203.png",
+    "companyName": "bloXroute",
+    "jobTitle": "Technical Product Manager",
+    "location": "Worldwide",
+    "datePosted": "15 October 2024",
+    "jobTags": [
+      "Worldwide",
+      "$100k - $165k",
+      "Product",
+      "Product Manager"
+    ],
+    "jobDescription": "",
+    "applyLink": "https://devremote.io/jobs/remote-Technical-Product-Manager-1729040436",
+    "visitWebsiteLink": "https://jobs.lever.co/blox-route/33a0a4a1-6fff-41d7-9c4e-def824504355?lever-origin=applied&lever-source%5B%5D=cryptocurrencyjobs.co"
+  }
+]
